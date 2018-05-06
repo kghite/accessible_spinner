@@ -1,5 +1,5 @@
 # Accessible Spinner Project
-Welcome to the documentation website for the Accessible Spinner Project. This project began with three students in the class Technology, Accessibility, Design at Olin College of Engineering, in partnership with Huyentran Vo at the Perkins School for the Blind. We designed a spinner toy for use in classrooms and activities which is accessible to students who are blind or visually impaired and/or have other physical or cognitive impairments, as well as anyone who does not belong to these groups.
+Welcome to the documentation website for the Accessible Spinner Project. This project began with three students in the class Technology, Accessibility, Design at Olin College of Engineering, in partnership with Huyentran Vo at the Perkins School for the Blind. We designed a spinner toy for use in games and activities which is accessible to students who are blind or visually impaired and/or have other physical or cognitive impairments, as well as anyone who does not belong to these groups.
 
 ## Design Process
 Lots of research went into the human-centered design of our accessible spinner. If you're interested in knowing more, [click here to read more about our design process](process.html). 
