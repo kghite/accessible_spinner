@@ -4,5 +4,5 @@ Welcome to the documentation website for the Accessible Spinner Project. This pr
 ## Design Process
 Lots of research went into the human-centered design of our accessible spinner. If you're interested in knowing more, [click here to read more about our design process](process.md). 
 
-##DIY Spinner Instructions
+## DIY Spinner Instructions
 We did our best to document our project and make material choices such that others can recreate and improve upon our design. [Click here to find instructions and resources to make your own spinner](instructions.md).
