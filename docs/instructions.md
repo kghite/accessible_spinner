@@ -3,17 +3,18 @@
 To make the accessible spinner, we sourced parts from our local hardware store and some online stores. With access to some common makerspace tools and our instructions, we hope you will enjoy creating this toy! Feel free to modify and make improvements as well. We've included rationale for each material choice in case you're curious about whether a particular part can be exchanged or modified. Prices are all approximate and may vary depending on source.
 # Materials
 ## Box and Wheel
-Material | Purchasing | Rationale | 
------------- | ------------- | -------------
-4 foot by 8 foot sheet of half inch rigid foam insulation | $15 at your local home improvement store. | We use this foam because it is lightweight and durable. Should a student throw the spinner, hopefully the spinner will not be damaged, nor will a person who is hit by the spinner when it is thrown be hurt.
-Thick yoga mat in dark neutral color | $10 online or at a department store. | The dark color is beneficial for students with CVI. The mat provides extra cushioning for safety. The mat can be removed and wiped down or rinsed off when necessary.
-Ball bearing turntable ring, "lazy susan" | $6, [we bought this hardware](https://www.amazon.com/gp/product/B0006LBVDI/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) | This ensures that torque on the wheel is not entirely on the motor's axle.
-Dimensional puffy paint | A few dollars online or at a craft store. | Good for tactile labels and boundaries on the spinner.
-Clay, instamorph, etc. | $10 to $15 online or at a craft store | For example, used to make a handle for manually spinning the spinner, which can be attached with glue or velcro to spinner faces.
-Velcro tape | $7 craft stores, online, hardware stores | We used velcro to attach the yoga mat cover, the faces to the wheel, secure interior components so they can be repaired, etc.
-3D Printed parts | A few dollars with access to a 3D printer. Try a local library, makerspace, office supply, or school. | Lightweight and replaceable.
-Bolts: We used six size 8-32, 0.75 inch long bolts with nylock nuts | A few dollars at a hardware store | removeable and replaceable, durable.
-Optional Screws: We used 1 inch long wood screws to secure the bottom piece of insulation foam | A few dollars at a hardware store | Removeable and replaceable, durable.
+
+| Material | Purchasing | Rationale | 
+|--- | --- | ---|
+|4 foot by 8 foot sheet of half inch rigid foam insulation | $15 at your local home improvement store. | We use this foam because it is lightweight and durable. Should a student throw the spinner, hopefully the spinner will not be damaged, nor will a person who is hit by the spinner when it is thrown be hurt.
+|Thick yoga mat in dark neutral color | $10 online or at a department store. | The dark color is beneficial for students with CVI. The mat provides extra cushioning for safety. The mat can be removed and wiped down or rinsed off when necessary.
+|Ball bearing turntable ring, "lazy susan" | $6, [we bought this hardware](https://www.amazon.com/gp/product/B0006LBVDI/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) | This ensures that torque on the wheel is not entirely on the motor's axle.
+|Dimensional puffy paint | A few dollars online or at a craft store. | Good for tactile labels and boundaries on the spinner.
+|Clay, instamorph, etc. | $10 to $15 online or at a craft store | For example, used to make a handle for manually spinning the spinner, which can be attached with glue or velcro to spinner faces.
+|Velcro tape | $7 craft stores, online, hardware stores | We used velcro to attach the yoga mat cover, the faces to the wheel, secure interior components so they can be repaired, etc.
+|3D Printed parts | A few dollars with access to a 3D printer. Try a local library, makerspace, office supply, or school. | Lightweight and replaceable.
+|Bolts: We used six size 8-32, 0.75 inch long bolts with nylock nuts | A few dollars at a hardware store | removeable and replaceable, durable.
+|Optional Screws: We used 1 inch long wood screws to secure the bottom piece of insulation foam | A few dollars at a hardware store | Removeable and replaceable, durable.
 
 ## Electrical System
 Material | Purchasing | Rationale | 
