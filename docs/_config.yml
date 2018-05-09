@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Accessible Spinner Project
 description: Project site for a human-centered accessible design project.
+markdown: kramdown
