@@ -19,7 +19,7 @@ To make the accessible spinner, we sourced parts from our local hardware store a
 ## Electrical System
 
 | Material | Purchasing | Rationale | 
-|--- | --- | ---|
+| --- | --- | --- |
 |Small vibration motors | [$10 for 10 motors on amazon](https://www.amazon.com/gp/product/B076ZS77T1/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) | Provide non-visual, non-auditory feedback about what the spinner is doing.
 |Small Neodymium magnets | buy online, at hardware or electronics stores, or office supply | We use magnets around the edge of the spinner so that a sensor can notice when the wheel is spinning.
 |Hall effect sensor | $2 [adafruit hall effect sensor](https://www.adafruit.com/product/158) | This senses magnets so we know when the wheel is spinning and how fast. We can then translate this into non-visual feedback for the user.
