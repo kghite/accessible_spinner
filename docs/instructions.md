@@ -1,6 +1,11 @@
 [Back to Accessible Spinner Homepage](index.md)
 # Instructions for a DIY Accessible Spinner
 To make the accessible spinner, we sourced parts from our local hardware store and some online stores. With access to some common makerspace tools and our instructions, we hope you will enjoy creating this toy! Feel free to modify and make improvements as well. We've included rationale for each material choice in case you're curious about whether a particular part can be exchanged or modified. Prices are all approximate and may vary depending on source.
+
+
+## Step-By-Step Instructions
+The full list of materials required for this project is below, and all of the files and instructions required to assemble the spinner can be found in the Google Document [here](https://docs.google.com/document/d/1vmMtzCTl9XrIg3AWzfT3EE00hjoK2_DLWvAdIgzRoGw/edit?usp=sharing).  The document can be downloaded as a PDF or Word document to use with your favorite screenreader.
+
 ## Materials
 ### Box and Wheel
 
@@ -35,6 +40,3 @@ To make the accessible spinner, we sourced parts from our local hardware store a
 |Insulated wire | a few dollars at electronics or hardware stores or online | a few feet in three or four colors lets us wire the spinner and distinguish between power, ground, and other, for ease of troubleshooting.
 |Resistors: One 100,000 ohm resistor and one 100 ohm resistor | A few cents online or at electronics stores | particular resistors may vary depending on specific electrical components used.
 |Mini breadboard or protoboard and solder | a few dollars online | used for various circuits
-
-## Step-By-Step Instructions
-Instructions are currently housed in google drive, coming soon to this site.
