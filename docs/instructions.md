@@ -4,7 +4,7 @@ To make the accessible spinner, we sourced parts from our local hardware store a
 
 
 ## Step-By-Step Instructions
-The full list of materials required for this project is below, and all of the files and instructions required to assemble the spinner can be found in the Google Document [here](https://docs.google.com/document/d/1vmMtzCTl9XrIg3AWzfT3EE00hjoK2_DLWvAdIgzRoGw/edit?usp=sharing).  The document can be downloaded as a PDF or Word document to use with your favorite screenreader.
+The full list of materials required for this project is below, and all of the files and instructions required to assemble the spinner can be found in the Google Document link here: [Link to Instructions Document](https://docs.google.com/document/d/1vmMtzCTl9XrIg3AWzfT3EE00hjoK2_DLWvAdIgzRoGw/edit?usp=sharing).  The document can be downloaded as a PDF or Word document to use with your favorite screenreader.
 
 ## Materials
 ### Box and Wheel
