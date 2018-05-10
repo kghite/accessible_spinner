@@ -6,3 +6,6 @@ Lots of research went into the human-centered design of our accessible spinner. 
 
 ## DIY Spinner Instructions
 We did our best to document our project and make material choices such that others can recreate and improve upon our design. [Click here to find instructions and resources to make your own spinner](instructions.md).
+
+## Creating Spinner Faces
+Have a spinner and need ideas for new faces and activities?  [Click here for spinner face templates and activity ideas](https://docs.google.com/document/d/1C3TX7NpdmWl5FYuVVCet6L-TKNyJmQFPotxfhqQD3eU/edit?usp=sharing).
