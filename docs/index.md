@@ -1,5 +1,9 @@
 # Accessible Spinner Project
-Welcome to the documentation website for the Accessible Spinner Project. This project began with three students in the class Technology, Accessibility, Design at Olin College of Engineering, in partnership with Huyentran Vo at the Perkins School for the Blind. We designed a spinner for use in games and activities which is accessible to students who are blind or visually impaired and/or have other physical or cognitive impairments, as well as anyone who does not belong to these groups. A spinner is a circle with pie-slice sections, each of which represents a choice (much like the faces of a di). The spinner is spun, then as it comes to rest a pointer indicates which section is chosen.
+Welcome to the documentation website for the Accessible Spinner Project. This project began with three students in the class Technology, Accessibility, Design at Olin College of Engineering, in partnership with Huyentran Vo at the Perkins School for the Blind. We designed a spinner for use in games and activities which is accessible to students who are blind or visually impaired and/or have other physical or cognitive impairments, as well as anyone who does not belong to these groups. A spinner is a circle with pie-slice sections, each of which represents a choice (much like the faces of a die). The spinner is spun, then as it comes to rest a pointer indicates which section is chosen.  The following video shows our final version in action:
+
+[Put the video here]
+
+The intent of this project was to create an initial prototype that can be easily copied or further developed to fit the needs of specific student groups or classrooms.  The following sections detail all of the information that you need to understand how we created our spinner and how you can create your own.
 
 ## Design Process
 Lots of research went into the human-centered design of our accessible spinner. If you're interested in knowing more, [click here to read more about our design process](process.md). 
