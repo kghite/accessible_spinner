@@ -9,6 +9,6 @@ Documentation of context research is currently housed in google drive, and is co
 ## Principles
 Documentation of principles is currently housed in google drive, and is coming soon to this site.
 ## Design Decisions
-Documentation of our design decisions is currently housed in google drive, and is coming soon to this site.
+While creating the spinner, we made many design decisions based in information about the students and teachers who might use this game.  These decisions can be found in the Google Document here: [Link to Design Decisions Document](https://docs.google.com/document/d/1wFjWsA8z1HwgwzZn2KH_4XQitbvNyzSFwigOyCQYZV0/edit?usp=sharing).
 ## Future Work
 Documentation of future work is currently housed in google drive, and is coming soon to this site.
