@@ -7,6 +7,7 @@ Keep in mind that overlays should be legible to everyone who wants to play. For 
 * Draw shapes or a spiral on the overlay with puffy paint to feel and watch as it spins. 
 * Cover the overlay with felt and use velcro to attach toys, streamers, etc.
 * For students with some sight and dexterity, put a dry-erase sticker on the overlay and draw spirals with a high-contrast marker while it's pinning.
+
 ## Brainy Games and Lesson Games
 ### Emotions and Storytelling
 * Label each segment with an emotion. When it lands on an emotion, tell a story about feeling that way. 
@@ -21,5 +22,6 @@ Keep in mind that overlays should be legible to everyone who wants to play. For 
 * Label each section with a name to make a random name picker. 
 * Label each section with an activity to do when a student finishes their work.
 * Label each section with a coping strategy for students who are upset, such as taking a walk, coloring, drinking water, taking slow breaths, etc. 
+
 ## Active Games
 Label each segment of the spinner with an exercise or dance move, and use the spinner for exercise games. 
